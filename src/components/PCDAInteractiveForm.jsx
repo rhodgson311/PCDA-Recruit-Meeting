@@ -31,7 +31,7 @@ function Tag({ label, onRemove }) {
     <span className="inline-flex items-center gap-1 bg-zinc-100 border border-zinc-300 text-zinc-800 rounded-full px-3 py-1 text-sm mr-2 mb-2">
       {label}
       {onRemove && (
-        <button className="ml-1 text-zinc-500 hover:text-zinc-800" onClick={onRemove} aria-label={\`Remove \${label}\`}>{'\u00D7'}</button>
+        <button className="ml-1 text-zinc-500 hover:text-zinc-800" onClick={onRemove} aria-label={\`Remove \${label}\`}>{String.fromCharCode(215)}</button>
       )}
     </span>
   )
