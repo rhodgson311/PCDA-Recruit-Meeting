@@ -1,0 +1,86 @@
+[
+  {
+    "id": "duke",
+    "name": "Duke University",
+    "level": "NCAA DI",
+    "location": "Durham, NC",
+    "cost": 83991,
+    "avgClassSize": 20,
+    "records": {
+      "2023-2024": "10-5-2",
+      "2022-2023": "8-7-1"
+    }
+  },
+  {
+    "id": "ucsd",
+    "name": "UC San Diego",
+    "level": "NCAA DI",
+    "location": "La Jolla, CA",
+    "cost": 42219,
+    "avgClassSize": 28,
+    "records": {
+      "2023-2024": "9-6-3",
+      "2022-2023": "7-8-2"
+    }
+  },
+  {
+    "id": "tamucc",
+    "name": "Texas A&M\u2013Corpus Christi",
+    "level": "NCAA DI",
+    "location": "Corpus Christi, TX",
+    "cost": 26678,
+    "avgClassSize": 25,
+    "records": {
+      "2023-2024": "11-7-1",
+      "2022-2023": "6-9-3"
+    }
+  },
+  {
+    "id": "trinityTX",
+    "name": "Trinity University (TX)",
+    "level": "NCAA DIII",
+    "location": "San Antonio, TX",
+    "cost": 67350,
+    "avgClassSize": 17,
+    "records": {
+      "2023-2024": "14-4-0",
+      "2022-2023": "13-5-1"
+    }
+  },
+  {
+    "id": "spu",
+    "name": "Seattle Pacific University",
+    "level": "NCAA DII",
+    "location": "Seattle, WA",
+    "cost": 63650,
+    "avgClassSize": 22,
+    "records": {
+      "2023-2024": "12-6-2",
+      "2022-2023": "9-8-1"
+    }
+  },
+  {
+    "id": "benedictine",
+    "name": "Benedictine University",
+    "level": "NCAA DIII",
+    "location": "Lisle, IL",
+    "cost": 51200,
+    "avgClassSize": 18,
+    "records": {
+      "2023-2024": "15-3-2",
+      "2022-2023": "12-7-2"
+    }
+  },
+  {
+    "id": "columbiaMO",
+    "name": "Columbia College (MO)",
+    "level": "NAIA",
+    "location": "Columbia, MO",
+    "cost": 37300,
+    "avgClassSize": 21,
+    "records": {
+      "2023-2024": "13-6-1",
+      "2022-2023": "14-4-2"
+    }
+  }
+]
